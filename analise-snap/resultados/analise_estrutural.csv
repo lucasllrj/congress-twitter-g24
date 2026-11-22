@@ -1,0 +1,30 @@
+analise,medida,valor
+small-world,comprimento médio (L),2.0639
+small-world,clusterização (C),0.3014
+small-world,comprimento médio aleatório (média de 30),1.9272
+small-world,clusterização aleatória (média de 30),0.0908
+small-world,L / L_random,1.0709
+small-world,C / C_random,3.3200
+small-world,sigma,3.1001
+lei de potência,grau mínimo,2
+lei de potência,grau máximo,214
+lei de potência,grau médio,43.0400
+lei de potência,grau mediano,38.0000
+lei de potência,gama,2.4919
+lei de potência,R²,0.7388
+robustez: intacto,Maior componente (A),0.9874
+robustez: falha aleatória (média),Maior componente (A),0.9868
+robustez: falha aleatória (desvio padrão),Maior componente (A),0.0015
+robustez: ataque direcionado,Maior componente (A),0.9867
+robustez: intacto,Nº de componentes (B),7
+robustez: falha aleatória (média),Nº de componentes (B),6.9667
+robustez: falha aleatória (desvio padrão),Nº de componentes (B),0.6687
+robustez: ataque direcionado,Nº de componentes (B),7
+robustez: intacto,Distância média (C),2.3549
+robustez: falha aleatória (média),Distância média (C),2.3689
+robustez: falha aleatória (desvio padrão),Distância média (C),0.0073
+robustez: ataque direcionado,Distância média (C),2.5215
+robustez: intacto,Isolados (D),0.0000
+robustez: falha aleatória (média),Isolados (D),0.0000
+robustez: falha aleatória (desvio padrão),Isolados (D),0.0000
+robustez: ataque direcionado,Isolados (D),0.0000

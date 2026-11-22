@@ -1,0 +1,25 @@
+medida,versao,valor
+vértices,dirigido,475
+arestas,dirigido,13289
+grau mínimo,entrada,0
+grau máximo,entrada,127
+grau médio,entrada,27.9768
+grau mínimo,saída,1
+grau máximo,saída,210
+grau médio,saída,27.9768
+densidade,dirigido,0.0590
+componentes conexas,fracas,1
+tamanhos das componentes,fracas,475
+componentes conexas,fortes,7
+tamanhos das componentes,fortes,"469, 1, 1, 1, 1, 1, 1"
+diâmetro,"dirigido, grafo inteiro",inf
+diâmetro,"dirigido, maior componente forte",6
+diâmetro,"não dirigido, componente fraca",4
+raio,"dirigido, grafo inteiro",inf
+raio,"dirigido, maior componente forte",3
+raio,"não dirigido, componente fraca",2
+comprimento médio dos caminhos,"dirigido, grafo inteiro",inf
+comprimento médio dos caminhos,"dirigido, maior componente forte",2.3549
+comprimento médio dos caminhos,"não dirigido, componente fraca",2.0639
+coeficiente de clusterização médio,não dirigido,0.3014
+número de triângulos,não dirigido,52333
