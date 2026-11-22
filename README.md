@@ -6,7 +6,7 @@ Uma aresta dirigida `u → v` indica que `u` influencia `v`, e o peso é a proba
 ## Estrutura do repositório
 
 ```
-.
+analise-congress-twitter-g24/
 ├── dados/
 │   └── congress_network/          dados originais, sem alteração
 │       ├── congress.edgelist      lista de arestas (dirigida e ponderada)
@@ -20,15 +20,16 @@ Uma aresta dirigida `u → v` indica que `u` influencia `v`, e o peso é a proba
 │   └── grafos_manipulados.csv
 ├── estrutura_basica.ipynb         Parte I: análise estrutural obrigatória
 ├── algoritmos.ipynb               Parte II: algoritmos da disciplina e tempos de execução
-├── analise_estrutural.ipynb       Parte III: small-world, lei de potência e robustez
-└── README.md
+└── analise_estrutural.ipynb       Parte III: small-world, lei de potência e robustez
 ```
 
 ## Como executar
 
 Requisitos: **Python 3.11** e um editor com suporte a Jupyter (por exemplo, VS Code com a extensão Jupyter).
 
-1. Crie e ative um ambiente virtual na pasta do projeto.
+1. Entre na pasta `analise-congress-twitter-g24`, onde estão os notebooks e os dados.
+
+2. Crie e ative um ambiente virtual nessa pasta.
 
    Windows (PowerShell):
    ```powershell
@@ -42,12 +43,12 @@ Requisitos: **Python 3.11** e um editor com suporte a Jupyter (por exemplo, VS C
    source .venv/bin/activate
    ```
 
-2. Instale as dependências (versões usadas no trabalho):
+3. Instale as dependências (versões usadas no trabalho):
    ```bash
    pip install networkx==3.6.1 numpy==2.4.6 scipy==1.17.1 matplotlib==3.11.2 ipykernel
    ```
 
-3. Abra os notebooks, selecione o kernel do `.venv` e execute cada um do início ao fim (**Run All**), nesta ordem:
+4. Abra os notebooks, selecione o kernel do `.venv` e execute cada um do início ao fim (**Run All**), nesta ordem:
    1. `estrutura_basica.ipynb`
    2. `algoritmos.ipynb`
    3. `analise_estrutural.ipynb`
@@ -93,4 +94,9 @@ Saídas: `resultados/analise_estrutural.csv` (resultados) e `resultados/grafos_m
 - **Pesos nos caminhos mínimos (Parte II):** o peso é uma probabilidade, então o custo de cada aresta é
   `−log(probabilidade)`; maior influência corresponde a menor custo. Na versão não dirigida, quando há as duas
   direções, usa-se a maior das duas probabilidades.
-- **Robustez:** feita no grafo dirigido, com componente
+- **Robustez:** feita no grafo dirigido, com componentes fortemente conexas.
+
+## Fonte dos dados
+
+Fink et al. (2023). *A Congressional Twitter network dataset quantifying pairwise probability of influence*. Data in Brief.
+Disponível no Stanford Network Analysis Project (SNAP): https://snap.stanford.edu/data/congress-twitter.html
