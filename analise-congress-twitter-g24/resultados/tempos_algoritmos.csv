@@ -1,0 +1,301 @@
+algoritmo,execucao,tempo_ms
+BFS,1,2.8177
+BFS,2,2.5162
+BFS,3,2.4855
+BFS,4,2.1644
+BFS,5,2.1925
+BFS,6,1.8514
+BFS,7,1.5394
+BFS,8,1.5886
+BFS,9,1.6440
+BFS,10,2.1983
+BFS,11,1.8992
+BFS,12,1.8315
+BFS,13,1.6147
+BFS,14,1.6289
+BFS,15,1.6901
+BFS,16,1.6418
+BFS,17,1.6934
+BFS,18,1.8146
+BFS,19,2.2932
+BFS,20,1.8940
+BFS,21,1.4502
+BFS,22,1.3811
+BFS,23,1.3814
+BFS,24,1.3312
+BFS,25,1.3606
+BFS,26,1.3512
+BFS,27,1.3193
+BFS,28,1.3640
+BFS,29,1.5915
+BFS,30,2.7212
+DFS,1,3.3093
+DFS,2,2.8318
+DFS,3,2.6364
+DFS,4,2.5414
+DFS,5,2.6843
+DFS,6,3.8119
+DFS,7,3.2796
+DFS,8,2.6142
+DFS,9,2.4719
+DFS,10,2.4501
+DFS,11,2.5321
+DFS,12,2.4014
+DFS,13,2.2648
+DFS,14,2.7675
+DFS,15,2.3507
+DFS,16,2.2189
+DFS,17,2.2410
+DFS,18,2.3033
+DFS,19,2.4618
+DFS,20,3.6111
+DFS,21,2.7339
+DFS,22,2.2638
+DFS,23,8.1115
+DFS,24,2.7262
+DFS,25,2.7248
+DFS,26,2.5254
+DFS,27,2.4425
+DFS,28,3.0988
+DFS,29,2.6439
+DFS,30,5.6784
+Eulerianidade (orientado),1,0.0339
+Eulerianidade (orientado),2,0.0141
+Eulerianidade (orientado),3,0.0084
+Eulerianidade (orientado),4,0.0083
+Eulerianidade (orientado),5,0.0078
+Eulerianidade (orientado),6,0.0096
+Eulerianidade (orientado),7,0.0105
+Eulerianidade (orientado),8,0.0093
+Eulerianidade (orientado),9,0.0070
+Eulerianidade (orientado),10,0.0069
+Eulerianidade (orientado),11,0.0068
+Eulerianidade (orientado),12,0.0068
+Eulerianidade (orientado),13,0.0058
+Eulerianidade (orientado),14,0.0060
+Eulerianidade (orientado),15,0.0072
+Eulerianidade (orientado),16,0.0063
+Eulerianidade (orientado),17,0.0068
+Eulerianidade (orientado),18,0.0080
+Eulerianidade (orientado),19,0.0073
+Eulerianidade (orientado),20,0.0072
+Eulerianidade (orientado),21,0.0082
+Eulerianidade (orientado),22,0.0061
+Eulerianidade (orientado),23,0.0064
+Eulerianidade (orientado),24,0.0065
+Eulerianidade (orientado),25,0.0061
+Eulerianidade (orientado),26,0.0062
+Eulerianidade (orientado),27,0.0074
+Eulerianidade (orientado),28,0.0059
+Eulerianidade (orientado),29,0.0056
+Eulerianidade (orientado),30,0.0078
+Eulerianidade (não orientado),1,0.0306
+Eulerianidade (não orientado),2,0.0089
+Eulerianidade (não orientado),3,0.0080
+Eulerianidade (não orientado),4,0.0091
+Eulerianidade (não orientado),5,0.0089
+Eulerianidade (não orientado),6,0.0087
+Eulerianidade (não orientado),7,0.0071
+Eulerianidade (não orientado),8,0.0078
+Eulerianidade (não orientado),9,0.0067
+Eulerianidade (não orientado),10,0.0073
+Eulerianidade (não orientado),11,0.0057
+Eulerianidade (não orientado),12,0.0061
+Eulerianidade (não orientado),13,0.0060
+Eulerianidade (não orientado),14,0.0060
+Eulerianidade (não orientado),15,0.0058
+Eulerianidade (não orientado),16,0.0055
+Eulerianidade (não orientado),17,0.0058
+Eulerianidade (não orientado),18,0.0065
+Eulerianidade (não orientado),19,0.0059
+Eulerianidade (não orientado),20,0.0060
+Eulerianidade (não orientado),21,0.0060
+Eulerianidade (não orientado),22,0.0062
+Eulerianidade (não orientado),23,0.0056
+Eulerianidade (não orientado),24,0.0091
+Eulerianidade (não orientado),25,0.0081
+Eulerianidade (não orientado),26,0.0098
+Eulerianidade (não orientado),27,0.0081
+Eulerianidade (não orientado),28,0.0108
+Eulerianidade (não orientado),29,0.0063
+Eulerianidade (não orientado),30,0.0066
+Dijkstra,1,21.2722
+Dijkstra,2,11.9731
+Dijkstra,3,48.9982
+Dijkstra,4,9.9426
+Dijkstra,5,10.0830
+Dijkstra,6,7.7600
+Dijkstra,7,8.7753
+Dijkstra,8,7.2271
+Dijkstra,9,9.0718
+Dijkstra,10,6.7073
+Dijkstra,11,8.1425
+Dijkstra,12,6.7987
+Dijkstra,13,9.9329
+Dijkstra,14,10.1729
+Dijkstra,15,7.4516
+Dijkstra,16,6.5309
+Dijkstra,17,7.9875
+Dijkstra,18,6.4842
+Dijkstra,19,7.5299
+Dijkstra,20,6.6009
+Dijkstra,21,6.9714
+Dijkstra,22,8.8467
+Dijkstra,23,8.1995
+Dijkstra,24,7.8419
+Dijkstra,25,6.2543
+Dijkstra,26,7.8804
+Dijkstra,27,6.2046
+Dijkstra,28,8.3308
+Dijkstra,29,8.1666
+Dijkstra,30,6.0883
+Bellman-Ford,1,10.1369
+Bellman-Ford,2,12.6900
+Bellman-Ford,3,13.4741
+Bellman-Ford,4,9.5212
+Bellman-Ford,5,8.8812
+Bellman-Ford,6,8.8861
+Bellman-Ford,7,7.6595
+Bellman-Ford,8,11.0754
+Bellman-Ford,9,7.6456
+Bellman-Ford,10,10.4037
+Bellman-Ford,11,10.1873
+Bellman-Ford,12,9.7766
+Bellman-Ford,13,9.8528
+Bellman-Ford,14,10.2182
+Bellman-Ford,15,11.3940
+Bellman-Ford,16,8.5871
+Bellman-Ford,17,12.1585
+Bellman-Ford,18,11.4122
+Bellman-Ford,19,7.7062
+Bellman-Ford,20,10.6185
+Bellman-Ford,21,9.2759
+Bellman-Ford,22,8.4644
+Bellman-Ford,23,10.1810
+Bellman-Ford,24,9.2796
+Bellman-Ford,25,8.1908
+Bellman-Ford,26,6.9948
+Bellman-Ford,27,7.9787
+Bellman-Ford,28,7.4556
+Bellman-Ford,29,10.0037
+Bellman-Ford,30,8.5479
+Floyd-Warshall,1,1285.3502
+Floyd-Warshall,2,1290.3461
+Floyd-Warshall,3,1211.1641
+Floyd-Warshall,4,1319.7632
+Floyd-Warshall,5,1182.8674
+Floyd-Warshall,6,1506.4441
+Floyd-Warshall,7,1232.5131
+Floyd-Warshall,8,1301.5379
+Floyd-Warshall,9,1105.8631
+Floyd-Warshall,10,1210.9980
+Floyd-Warshall,11,1661.1272
+Floyd-Warshall,12,1149.6828
+Floyd-Warshall,13,1184.7206
+Floyd-Warshall,14,1147.2454
+Floyd-Warshall,15,1106.6959
+Floyd-Warshall,16,1094.4893
+Floyd-Warshall,17,1029.5252
+Floyd-Warshall,18,1010.0881
+Floyd-Warshall,19,977.9258
+Floyd-Warshall,20,959.0013
+Floyd-Warshall,21,1197.3677
+Floyd-Warshall,22,1054.6919
+Floyd-Warshall,23,1063.3311
+Floyd-Warshall,24,1056.9412
+Floyd-Warshall,25,1012.9376
+Floyd-Warshall,26,1087.8715
+Floyd-Warshall,27,1057.1235
+Floyd-Warshall,28,1457.2705
+Floyd-Warshall,29,1267.1875
+Floyd-Warshall,30,1229.4319
+Tarjan,1,10.0071
+Tarjan,2,9.3541
+Tarjan,3,8.1774
+Tarjan,4,8.6474
+Tarjan,5,8.1015
+Tarjan,6,12.3398
+Tarjan,7,10.8518
+Tarjan,8,8.3691
+Tarjan,9,9.3621
+Tarjan,10,7.7651
+Tarjan,11,7.5917
+Tarjan,12,7.3197
+Tarjan,13,8.8436
+Tarjan,14,9.4986
+Tarjan,15,11.1958
+Tarjan,16,12.9037
+Tarjan,17,8.7307
+Tarjan,18,11.1147
+Tarjan,19,7.7347
+Tarjan,20,11.1419
+Tarjan,21,12.2308
+Tarjan,22,8.3214
+Tarjan,23,10.4999
+Tarjan,24,11.4450
+Tarjan,25,7.5315
+Tarjan,26,8.4089
+Tarjan,27,9.2774
+Tarjan,28,9.3993
+Tarjan,29,7.5778
+Tarjan,30,9.3265
+Kruskal,1,72.0781
+Kruskal,2,39.1516
+Kruskal,3,111.0156
+Kruskal,4,35.2414
+Kruskal,5,44.0329
+Kruskal,6,39.0775
+Kruskal,7,35.3868
+Kruskal,8,33.3471
+Kruskal,9,40.2422
+Kruskal,10,31.9390
+Kruskal,11,34.1841
+Kruskal,12,38.9870
+Kruskal,13,114.1878
+Kruskal,14,53.8771
+Kruskal,15,54.2568
+Kruskal,16,45.1833
+Kruskal,17,40.7039
+Kruskal,18,37.7937
+Kruskal,19,36.9970
+Kruskal,20,35.7756
+Kruskal,21,35.7604
+Kruskal,22,34.7891
+Kruskal,23,124.9128
+Kruskal,24,42.8617
+Kruskal,25,36.8508
+Kruskal,26,38.5362
+Kruskal,27,37.1426
+Kruskal,28,43.5268
+Kruskal,29,43.5753
+Kruskal,30,48.5765
+Prim,1,31.6835
+Prim,2,29.5982
+Prim,3,89.3940
+Prim,4,28.3282
+Prim,5,39.9411
+Prim,6,49.3636
+Prim,7,54.6531
+Prim,8,53.7975
+Prim,9,65.3168
+Prim,10,47.9345
+Prim,11,36.3424
+Prim,12,53.6586
+Prim,13,55.4782
+Prim,14,86.7039
+Prim,15,63.1533
+Prim,16,129.3394
+Prim,17,27.2303
+Prim,18,32.9987
+Prim,19,25.5815
+Prim,20,19.7507
+Prim,21,30.0558
+Prim,22,39.8049
+Prim,23,37.9751
+Prim,24,37.2296
+Prim,25,45.3431
+Prim,26,32.4420
+Prim,27,123.4195
+Prim,28,37.6735
+Prim,29,45.9141
+Prim,30,48.6178
