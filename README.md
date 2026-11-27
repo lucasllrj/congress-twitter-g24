@@ -1,7 +1,7 @@
 # congress-twitter-g24
 Análise estrutural e aplicação de algoritmos em um grafo direcional o qual representa a interação de congressistas norte-americanos durante a 117ª legislatura do país (2021-2023).
 
-Uma aresta dirigida `u → v` indica que `u` influencia `v`, e o peso é a probabilidade estimada dessa influência.
+Nessa base de dados, uma aresta dirigida descreve a influência do vértice em outro e o peso é a probabilidade estimada dessa influência.
 
 ## Estrutura do repositório
 
